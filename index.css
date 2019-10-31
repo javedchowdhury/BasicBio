@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+}
+h1 {
+    color: brown;
+    text-align: center;
+    font-family: 'Times New Roma', Times, serif;
+    border: 5px solid red;
+}
+#main-selection,#contact-section{
+    float: left;
+    padding: 35px;
+  margin: 25px;
+  border: 4px dotted blue;
+  background-color: burlywood;
+}
+
+.infosection{
+    color: red;
+}
+
+p {
+  padding: 35px;
+  margin: 35px;
+}
+img {
+  border-radius: 50%;
+}
